@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*.swp
+logs/*.log
+*.bck
+*.sqlite
+config/env_settings.py
