@@ -1,6 +1,6 @@
 # Flask App Template
 
-The code (template) is designed for a simple Flask app with several useful Flask modules. It's used to generate a web APIs or pages quickly for development, and been deployed by uWSGI in production environment. It's also a good practice for you to write your next Flask app.
+The code (template) is designed for a simple Flask app with several useful Flask modules. It's used to generate web APIs or pages quickly for development, and been deployed by uWSGI in production environment. It's also a good practice for you to write your next Flask app.
 
 ## Cloning the code base
 
